@@ -1,0 +1,26 @@
+prefijo,nombre_estado,nombre_capital,color_fondo_hexadecimal,color_texto_hexadecimal,icono_awesome
+Estado,Amazonas,Puerto Ayacucho,#F8C8D8,#2C3E50,feather
+Estado,Anzoátegui,Barcelona,#D8E8F8,#4A2C2C,oil-well
+Estado,Apure,San Fernando de Apure,#F8F0D8,#3A4A6A,cow
+Estado,Aragua,Maracay,#E0F0D8,#6A3A4A,horse
+Estado,Barinas,Barinas,#E8D8F0,#2A6A4A,wheat-awn
+Estado,Bolívar,Ciudad Bolívar,#F8C8D8,#2C3E50,gem
+Estado,Carabobo,Valencia,#D8E8F8,#4A2C2C,industry
+Estado,Cojedes,San Carlos,#F8F0D8,#3A4A6A,cat
+Estado,Delta Amacuro,Tucupita,#E0F0D8,#6A3A4A,fish
+Estado,Distrito Capital,Caracas,#E8D8F0,#2A6A4A,landmark
+Estado,Falcón,Coro,#F8C8D8,#2C3E50,umbrella-beach
+Estado,Guárico,San Juan de los Morros,#D8E8F8,#4A2C2C,seedling
+Estado,Lara,Barquisimeto,#F8F0D8,#3A4A6A,guitar
+Estado,Mérida,Mérida,#E0F0D8,#6A3A4A,mountain
+Estado,Miranda,Los Teques,#E8D8F0,#2A6A4A,building
+Estado,Monagas,Maturín,#F8C8D8,#2C3E50,fire
+Estado,Nueva Esparta,La Asunción,#D8E8F8,#4A2C2C,anchor
+Estado,Portuguesa,Guanare,#F8F0D8,#3A4A6A,corn
+Estado,Sucre,Cumaná,#E0F0D8,#6A3A4A,ship
+Estado,Táchira,San Cristóbal,#E8D8F0,#2A6A4A,flag
+Estado,Trujillo,Trujillo,#F8C8D8,#2C3E50,monument
+Estado,La Guaira,La Guaira,#D8E8F8,#4A2C2C,water
+Estado,Yaracuy,San Felipe,#F8F0D8,#3A4A6A,lemon
+Estado,Zulia,Maracaibo,#E0F0D8,#6A3A4A,gas-pump
+Estado,Guayana Esequiba,Tumeremo,#E8D8F0,#2A6A4A,tree

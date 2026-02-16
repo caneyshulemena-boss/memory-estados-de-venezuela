@@ -1,0 +1,37 @@
+# Archivos generados
+svgs/
+naipes_pngs/
+pdf_naipes_final/
+*.log
+*.aux
+*.out
+# Archivos temporales
+*.tmp
+*.temp
+temp_*
+
+# Archivos temporales de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.xdv
+
+# Archivos PDF generados (opcional - comenta si quieres incluirlos)
+# *.pdf
+
+
+# Directorios de sistema
+.DS_Store
+Thumbs.db
+# Archivos de respaldo
+*~
+*.bak
+
