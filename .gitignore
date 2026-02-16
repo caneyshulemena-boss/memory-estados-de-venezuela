@@ -2,6 +2,7 @@
 svgs/
 naipes_pngs/
 pdf_naipes_final/
+INTERFACE-MODULOS.md
 *.log
 *.aux
 *.out
